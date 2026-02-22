@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Antoine!
 
-I’m a **Computer Engineering** student at the **University of Toronto** (Class of 2028) with a passion for building sleek, functional, and AI-driven applications. When I'm not debugging C++ maps or assembly code, I'm usually crafting digital experiences or writing poetry.
+I’m a **Computer Engineering** student at the **University of Toronto** (Class of 2029) with a passion for building sleek, functional, and AI-driven applications. When I'm not debugging C++ maps or assembly code, I'm usually crafting digital experiences or writing poetry.
 
 ---
 
