@@ -1,40 +1,64 @@
-# 👋 Hello, I'm Antoine!
+### Hi, I'm Antoine 👋
 
-I’m a **Computer Engineering** student at the **University of Toronto** (Class of 2029) with a passion for building sleek, functional, and AI-driven applications. When I'm not debugging C++ maps or assembly code, I'm usually crafting digital experiences or writing poetry.
+> 2nd-year Computer Engineering at UofT, building agentic systems and full-stack products with Anthropic, Supabase, and React. **Open to PEY internships.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-antoinetabetuoft-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoinetabetuoft)
+[![Portfolio](https://img.shields.io/badge/Portfolio-antoinetabet.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://antoinetabet.vercel.app)
+[![Email](https://img.shields.io/badge/Email-antoine.tabet%40mail.utoronto.ca-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine.tabet@mail.utoronto.ca)
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 What I'm building
 
-| Category | Tools & Languages |
+**🌍 [WorldEd](https://github.com/tabetant/worlded)**
+Learning platform with a Gemini nav agent and KaTeX-rendered math. *Next.js 15 + Supabase + Drizzle.*
+
+**🤖 [Internship Tracker](https://github.com/tabetant/internship-tracker-claudecode)**
+Multi-agent system on Claude Code. Daily scrape, score, and outreach drafting across 18+ portals. 239 applications discovered end-to-end.
+
+**🛡️ [Threat Denied](https://github.com/tabetant/threatdenied)**
+Bank fraud verifier with 7 Claude agents. Built solo for GenAI Genesis 2026.
+
+**🔊 [Open Sesame](https://github.com/tabetant/open-sesame)**
+Voice-activated LEGO gate on a DE1-SoC. Bare-metal RV32 C, WM8731 audio, MFCC + CNN inference.
+
+**👾 [FPGA Tetris](https://github.com/tabetant/fpga_tetris)**
+Tetris in pure Verilog with PS/2 keyboard, VGA output, and a 5-state FSM.
+
+**📬 [CS Ticket System](https://github.com/tabetant/cs-ticket-system)**
+Aspire Software internship capstone: tenant ticketing with drag-and-drop status board.
+
+---
+
+### 🛠 Stack
+
+| Category | Tools |
 | :--- | :--- |
-| **Languages** | `C/C++` `Python` `Swift` `TypeScript` |
-| **Frontend** | `Next.js` `SwiftUI` `Tailwind CSS` |
-| **Backend/DB** | `Supabase` `Drizzle ORM` `PostgreSQL` |
-| **Current Focus** | `AI Agents` `GIS Systems` `iOS Development` |
+| **Languages** | TypeScript, Python, C, Verilog, Swift |
+| **Frontend** | Next.js, React, Tailwind, SwiftUI |
+| **Backend** | Supabase (Auth + Postgres + Storage), Drizzle, FastAPI |
+| **AI** | Anthropic SDK, Claude Code, MCP, Vercel AI SDK, Gemini |
+| **Hardware** | Verilog, RV32 bare-metal, embedded ML inference in C |
 
 ---
 
-### 🚀 Current Projects
+### 📊 GitHub
 
-* **🌍 WorldEd** – Building immersive environments featuring **Eddi**, an integrated AI agent designed for dynamic interactions.
-* **🧠 Nexus** – An AI-powered semantic search tool designed to help students navigate academic materials.
-* **📍 ECE297 Mapper** – High-performance GIS software using C++ and EZGL to visualize the city of Toronto.
-* **👾 Pokémon Click-A-Mole** – A nostalgic twist on a classic arcade game featuring my favorite Ground-types.
+![Stats](https://github-readme-stats.vercel.app/api?username=tabetant&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabetant&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
-### ✍️ Beyond the Code
+### 📖 Beyond the code
 
-* **📖 Author:** Currently finalizing my trilingual poetry collection, *Heartstrings Unplayed*.
-* **⚡ Amex Enthusiast:** Religiously optimizing my life with the Cobalt card.
-* **🎮 Pokémon Master:** I've played every mainline game since I was 3 years old. 
+- *Heartstrings Unplayed*, my trilingual poetry collection (English, French, Spanish), in final edits
+- Music (singing, guitar, piano)
 
 ---
 
+### 📫 Connect
 
-### 📫 Let's Connect!
-
-* **LinkedIn:** [linkedin.com/in/tabetant](https://linkedin.com/in/tabetant)
-* **Portfolio:** [antoinetabet.vercel.app](https://antoinetabet.vercel.app)
-* **School:** 🇨🇦 University of Toronto (Skule™)
+- 💼 [linkedin.com/in/antoinetabetuoft](https://linkedin.com/in/antoinetabetuoft)
+- 📧 [antoine.tabet@mail.utoronto.ca](mailto:antoine.tabet@mail.utoronto.ca)
+- 🌐 [antoinetabet.vercel.app](https://antoinetabet.vercel.app)
+- 🇨🇦 University of Toronto · Skule™
