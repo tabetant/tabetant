@@ -1,4 +1,4 @@
-### Hi, I'm Antoine 👋
+# Hi, I'm Antoine 👋
 
 > 2nd-year Computer Engineering at UofT, building agentic systems and full-stack products with Anthropic, Supabase, and React. **Open to PEY internships.**
 
@@ -8,29 +8,29 @@
 
 ---
 
-### 🚀 What I'm building
+## 🚀 What I'm building
 
-**🌍 [WorldEd](https://github.com/tabetant/worlded)**
+**🌍 [WorldEd](https://github.com/tabetant/worlded)**<br>
 Learning platform with a Gemini nav agent and KaTeX-rendered math. *Next.js 15 + Supabase + Drizzle.*
 
-**🤖 [Internship Tracker](https://github.com/tabetant/internship-tracker-claudecode)**
+**🤖 [Internship Tracker](https://github.com/tabetant/internship-tracker-claudecode)**<br>
 Multi-agent system on Claude Code. Daily scrape, score, and outreach drafting across 18+ portals. 239 applications discovered end-to-end.
 
-**🛡️ [Threat Denied](https://github.com/tabetant/threatdenied)**
+**🛡️ [Threat Denied](https://github.com/tabetant/threatdenied)**<br>
 Bank fraud verifier with 7 Claude agents. Built solo for GenAI Genesis 2026.
 
-**🔊 [Open Sesame](https://github.com/tabetant/open-sesame)**
+**🔊 [Open Sesame](https://github.com/tabetant/open-sesame)**<br>
 Voice-activated LEGO gate on a DE1-SoC. Bare-metal RV32 C, WM8731 audio, MFCC + CNN inference.
 
-**👾 [FPGA Tetris](https://github.com/tabetant/fpga_tetris)**
+**👾 [FPGA Tetris](https://github.com/tabetant/fpga_tetris)**<br>
 Tetris in pure Verilog with PS/2 keyboard, VGA output, and a 5-state FSM.
 
-**📬 [CS Ticket System](https://github.com/tabetant/cs-ticket-system)**
+**📬 [CS Ticket System](https://github.com/tabetant/cs-ticket-system)**<br>
 Aspire Software internship capstone: tenant ticketing with drag-and-drop status board.
 
 ---
 
-### 🛠 Stack
+## 🛠 Stack
 
 | Category | Tools |
 | :--- | :--- |
@@ -42,23 +42,20 @@ Aspire Software internship capstone: tenant ticketing with drag-and-drop status 
 
 ---
 
-### 📊 GitHub
+## 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tabetant&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabetant&layout=compact&hide_border=true&theme=tokyonight)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tabetant&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabetant&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-### 📖 Beyond the code
+## 📖 Beyond the code
 
 - *Heartstrings Unplayed*, my trilingual poetry collection (English, French, Spanish), in final edits
 - Music (singing, guitar, piano)
 
 ---
 
-### 📫 Connect
-
-- 💼 [linkedin.com/in/antoinetabetuoft](https://linkedin.com/in/antoinetabetuoft)
-- 📧 [antoine.tabet@mail.utoronto.ca](mailto:antoine.tabet@mail.utoronto.ca)
-- 🌐 [antoinetabet.vercel.app](https://antoinetabet.vercel.app)
-- 🇨🇦 University of Toronto · Skule™
+📍 University of Toronto · Skule™
