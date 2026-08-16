@@ -1,6 +1,6 @@
 # Hi, I'm Antoine 👋
 
-> 2nd-year Computer Engineering at UofT, building agentic systems and full-stack products with Anthropic, Supabase, and React. **Open to PEY internships.**
+> 2nd-year Computer Engineering at UofT, building agentic systems and full-stack products with Anthropic, Supabase, and React.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-antoinetabetuoft-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoinetabetuoft)
 [![Portfolio](https://img.shields.io/badge/Portfolio-antoinetabet.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://antoinetabet.vercel.app)
