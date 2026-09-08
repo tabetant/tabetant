@@ -1,32 +1,32 @@
 # Hi, I'm Antoine 👋
 
-> 2nd-year Computer Engineering at UofT, building agentic systems and full-stack products with Anthropic, Supabase, and React.
+> 3rd-year Computer Engineering at UofT. I build AI systems at every layer: PyTorch fine tuning at the model level, production LLM systems in research, and automation real businesses run daily. Aiming at compiler and ML systems work for my PEY year.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-antoinetabetuoft-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoinetabetuoft)
-[![Portfolio](https://img.shields.io/badge/Portfolio-antoinetabet.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://antoinetabet.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-antoinetabet.com-000000?style=flat-square&logoColor=white)](https://antoinetabet.com)
 [![Email](https://img.shields.io/badge/Email-antoine.tabet%40mail.utoronto.ca-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antoine.tabet@mail.utoronto.ca)
 
 ---
 
 ## 🚀 What I'm building
 
-**🌍 [WorldEd](https://github.com/tabetant/worlded)**<br>
-Learning platform with a Gemini nav agent and KaTeX-rendered math. *Next.js 15 + Supabase + Drizzle.*
+**🎮 [Multimodal Pokedex](https://github.com/tabetant/aps360_pokedex)**<br>
+Deep learning capstone. LoRA fine tuned SigLIP 2 to align Pokemon sprites, 3D models, artwork and names in 7 languages in one embedding space. Sprite retrieval rose 0.48 to 0.68 top 1 by training 0.08 percent of a 375M model.
 
-**🤖 [Internship Tracker](https://github.com/tabetant/internship-tracker-claudecode)**<br>
-Multi-agent system on Claude Code. Daily scrape, score, and outreach drafting across 18+ portals. 239 applications discovered end-to-end.
-
-**🛡️ [Threat Denied](https://github.com/tabetant/threatdenied)**<br>
-Bank fraud verifier with 7 Claude agents. Built solo for GenAI Genesis 2026.
+**🎓 AskAlan (research at UofT ECE)**<br>
+Production AI course assistant serving 19 live courses. Zero downtime migration of a 118K document index validated on 8,029 replayed queries, retrieval latency down 40 percent, evals that drove a model swap. Writing the findings for publication. Live at [askalan.engineering.utoronto.ca](https://askalan.engineering.utoronto.ca)
 
 **🔊 [Open Sesame](https://github.com/tabetant/open-sesame)**<br>
-Voice-activated LEGO gate on a DE1-SoC. Bare-metal RV32 C, WM8731 audio, MFCC + CNN inference.
+Voice-activated LEGO gate on a DE1-SoC. Bare-metal RV32 C, WM8731 audio, MFCC + CNN inference on device.
+
+**🤖 [Internship Tracker](https://github.com/tabetant/internship-tracker)**<br>
+Production rewrite of my multi-agent internship pipeline. Anthropic SDK orchestration on AWS Fargate, EventBridge scheduling, Terraform managed infrastructure.
+
+**📄 [Doc Summarizer](https://github.com/tabetant/doc_summarizer)** and **📊 [Ops Report Generator](https://github.com/tabetant/ops_report_generator)**<br>
+The two Claude API tools my consulting clients run: documents to structured summaries, spreadsheets to full operations reports.
 
 **👾 [FPGA Tetris](https://github.com/tabetant/fpga_tetris)**<br>
 Tetris in pure Verilog with PS/2 keyboard, VGA output, and a 5-state FSM.
-
-**📬 [CS Ticket System](https://github.com/tabetant/cs-ticket-system)**<br>
-Aspire Software internship capstone: tenant ticketing with drag-and-drop status board.
 
 ---
 
@@ -34,12 +34,11 @@ Aspire Software internship capstone: tenant ticketing with drag-and-drop status 
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | TypeScript, Python, C, Verilog, Swift |
-| **Frontend** | Next.js, React, Tailwind, SwiftUI |
-| **Backend** | Supabase (Auth + Postgres + Storage), Drizzle, FastAPI |
-| **AI** | Anthropic SDK, Claude Code, MCP, Vercel AI SDK, Gemini |
-| **Hardware** | Verilog, RV32 bare-metal, embedded ML inference in C |
-
+| **ML** | PyTorch, scikit-learn, LoRA fine tuning, retrieval and embedding evals, quantized inference |
+| **Languages** | Python, TypeScript, C/C++, Verilog, SQL |
+| **AI systems** | Anthropic Claude API, Claude Code, MCP, RAG pipelines, cost observability |
+| **Web** | Next.js, React, Supabase, FastAPI, Drizzle, Tailwind |
+| **Hardware** | RV32 bare-metal C, Verilog on Altera FPGAs, embedded ML inference |
 ---
 
 ## 📊 GitHub
@@ -53,7 +52,7 @@ Aspire Software internship capstone: tenant ticketing with drag-and-drop status 
 
 ## 📖 Beyond the code
 
-- *Heartstrings Unplayed*, my trilingual poetry collection (English, French, Spanish), in final edits
+- *Heartstrings Unplayed*, my trilingual poetry collection (English, French, Spanish), releasing Fall 2026
 - Music (singing, guitar, piano)
 
 ---
